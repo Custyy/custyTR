@@ -28,4 +28,5 @@
 
 My Opinions:
 - All Lives Can't Matter Until Black Lives Matter ✊🏻✊🏼✊🏽✊🏾✊🏿
+
 ![Revenge's Github Stats](https://github-readme-stats.vercel.app/api?username=Aventadoria&show_icons=true&theme=radical)
