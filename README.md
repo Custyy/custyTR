@@ -5,7 +5,7 @@ Merhaba arkadaşlar ben Berk. Yaklaşık 2,5 yıldan beri Discord.JS ile ilgilen
 
 *Dalımızı kıranın ağacını keseriz*.
 
-[CustyTR's Github Stats](https://github-readme-stats.vercel.app/api?username=custyTR&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=custyTR&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=custyTR)](https://github.com/anuraghazra/github-readme-stats)
 
