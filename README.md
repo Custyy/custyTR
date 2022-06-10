@@ -8,6 +8,8 @@
 
 - 🔭 I’m currently working on [Dark Partner](https://partnerbot.xyz/)
 
+- 🔭 I’m currently working on [Elowell](https://elowell.gg/)
+
 - 🌱 I’m currently learning **Front end techs.**
 
 - 🔭 I’m currently working on **MolarkaUP**
