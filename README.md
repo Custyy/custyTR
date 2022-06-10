@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/custytr" target="blank"><img src="https://img.shields.io/twitter/follow/custytr?logo=twitter&style=for-the-badge" alt="custytr" /></a> </p> -->
 
-- 🔭 I’m currently working on [Dark Partner](https://partnerbot.xyz/)
+- 🎮 I’m currently working on [Elowell](https://elowell.gg/)
 
-- 🔭 I’m currently working on [Elowell](https://elowell.gg/)
+- 🔭 I’m currently working on [Dark Partner](https://partnerbot.xyz/)
 
 - 🌱 I’m currently learning **Front end techs.**
 
