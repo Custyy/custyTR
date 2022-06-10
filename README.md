@@ -8,11 +8,13 @@
 
 - 🎮 I’m currently working on [Elowell](https://elowell.gg/)
 
+- 💻 I’m currently working on [Zocco's Internet & Cafe](https://zoccos.com/)
+
 - 🔭 I’m currently working on [Dark Partner](https://partnerbot.xyz/)
 
-- 🌱 I’m currently learning **Front end techs.**
-
 - 🔭 I’m currently working on **MolarkaUP**
+
+- 🌱 I’m currently learning **Front end techs.**
 
 - 👨‍💻 All of my projects are available at [http://custydev.me](http://custydev.me)
 
